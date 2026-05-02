@@ -1,4 +1,4 @@
-# Global Gas Emissions by Country - 1950-2024
+# FIFA Dataset
 
 The goal of this project is to apply linear regression to this dataset.  
 
